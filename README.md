@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0051-n-queens) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

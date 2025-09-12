@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0048-rotate-image) |
+| [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
+| [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |

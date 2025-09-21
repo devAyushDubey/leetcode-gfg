@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1646-kth-missing-positive-number) |
+| [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
@@ -178,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3827-implement-router) |

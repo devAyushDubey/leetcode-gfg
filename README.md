@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1646-kth-missing-positive-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
+| [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
 |  |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

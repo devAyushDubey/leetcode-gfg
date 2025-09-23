@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
+| [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |

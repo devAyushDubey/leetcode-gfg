@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
@@ -222,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

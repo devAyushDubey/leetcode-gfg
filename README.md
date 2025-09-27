@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0069-sqrtx) |
+| [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->

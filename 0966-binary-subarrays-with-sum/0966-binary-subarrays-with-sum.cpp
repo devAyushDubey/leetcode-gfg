@@ -1,21 +1,24 @@
+int subsWithLessOrEqual(vector<int>& nums, int goal) {
+    if(goal < 0) return 0;
+    int n = nums.size();
+    int l = 0;
+    int r = 0;
+    int sum = 0;
+    int ans = 0;
+    while(r<n) {
+        sum += nums[r];
+        while(l<=r && sum > goal) {
+            sum -= nums[l];
+            l++;
+        }
+        ans += (r-l+1);
+        r++;
+    }
+    return ans;
+}
 class Solution {
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        unordered_map<int, int> prefixMap;
-        int sum = 0;
-        int ans = 0;
-        for(int i: nums) {
-            sum += i;
-            if(sum == goal) {
-                ans++;
-            }
-
-            if(prefixMap[sum - goal]) {
-                ans += prefixMap[sum-goal];
-            }
-
-            prefixMap[sum]++;
-        }
-        return ans;
+        return subsWithLessOrEqual(nums, goal) - subsWithLessOrEqual(nums, goal-1);
     }
 };

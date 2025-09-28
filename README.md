@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory

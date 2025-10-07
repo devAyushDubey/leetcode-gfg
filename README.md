@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0940-fruit-into-baskets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |

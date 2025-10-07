@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 ## Backtracking
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0402-remove-k-digits) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |

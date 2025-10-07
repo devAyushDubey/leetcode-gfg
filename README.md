@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0402-remove-k-digits) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |

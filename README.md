@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0402-remove-k-digits) |
+| [0812-rotate-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

@@ -1,22 +1,29 @@
-// HashMap based approach O(NlogN)
+// PriorityQueue/Heap based approach O(NlogN)
 typedef pair<char, int> P;
-bool comparator(P& a, P& b) {
-    return a.second > b.second;
-}
+class Compare {
+public:
+	bool operator()(P& a, P& b) {
+		return a.second < b.second;
+	}
+};
 class Solution {
 public:
     string frequencySort(string s) {
-        vector<P> mp(123, {'0', 0});
-        for(char &c: s) {
-            int freq = mp[c].second;
-            mp[c] = {c, freq + 1};
+        priority_queue<P, vector<P>, Compare> pq;
+        vector<int> mp(75, 0);
+        for(char c: s) {
+            mp[int(c) - 48]++;
         }
-        sort(mp.begin(), mp.end(), comparator);
+        for(int i = 0; i<75; i++) {
+            if(mp[i] == 0) continue;
+            char c = i + 48;
+            pq.push({c, mp[i]});
+        }
         string ans = "";
-        for(auto item: mp) {
-            if(item.second == 0) break;
-            string sub = string(item.second, item.first);
+        while(!pq.empty()) {
+            string sub = string(pq.top().second, pq.top().first);
             ans += sub;
+            pq.pop();
         }
         return ans;
     }

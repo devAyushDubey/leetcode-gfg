@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2032-largest-odd-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory

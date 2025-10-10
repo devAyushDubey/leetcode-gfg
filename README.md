@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0165-compare-version-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0908-middle-of-the-linked-list) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0908-middle-of-the-linked-list) |

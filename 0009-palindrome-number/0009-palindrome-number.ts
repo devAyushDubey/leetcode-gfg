@@ -1,14 +1,5 @@
-// Brute-force
-function reverse(x: number): number {
-    let ans = 0;
-    while(x) {
-        const last = x%10;
-        ans *= 10;
-        ans += last;
-        x = (x/10) | 0;
-    }
-    return ans;
-}
+// String method
 function isPalindrome(x: number): boolean {
-    return x < 0? false : x === reverse(x);
+    const stringified = String(x);
+    return stringified === stringified.split('').reverse().join('');
 };

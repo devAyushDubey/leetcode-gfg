@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,4 +382,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0234-palindrome-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

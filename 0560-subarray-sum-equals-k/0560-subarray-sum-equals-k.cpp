@@ -6,11 +6,11 @@ public:
         int ans = 0;
         for(int i=0; i<nums.size(); i++) {
             sum += nums[i];
-            prefix[sum] = prefix[sum] + 1;
             if(sum == k) ans++;
             if(prefix[sum-k]) {
-                ans += k == 0 ? prefix[sum-k] - 1 : prefix[sum-k];
+                ans += prefix[sum-k];
             }
+            prefix[sum] = prefix[sum] + 1;
         }
         return ans;
     }

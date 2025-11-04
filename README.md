@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3827-implement-router) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
 | [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3827-implement-router) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [2023-design-movie-rental-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
 | ------- |

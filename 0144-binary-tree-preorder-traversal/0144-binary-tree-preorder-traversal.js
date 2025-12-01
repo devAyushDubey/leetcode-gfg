@@ -11,10 +11,21 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
+    const ans = [];
+    const st = [root];
     if(!root) {
         return [];
     }
-    const left = preorderTraversal(root.left);
-    const right = preorderTraversal(root.right);
-    return [root.val, ...left , ...right];
+    while(st.length > 0) {
+        const last = st.at(-1);
+        ans.push(last);
+        st.pop();
+        if(last.right) {
+            st.push(last.right);
+        }
+        if(last.left) {
+            st.push(last.left);
+        }
+    }
+    return ans.map(node => node.val);
 };

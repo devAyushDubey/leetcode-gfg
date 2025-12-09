@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0239-sliding-window-maximum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0451-sort-characters-by-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0493-reverse-pairs) |
 ## Sliding Window

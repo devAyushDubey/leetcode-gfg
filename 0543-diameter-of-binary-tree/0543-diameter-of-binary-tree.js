@@ -11,15 +11,16 @@
  * @return {number}
  */
 var diameterOfBinaryTree = function(root) {
-    if(!root) return 0;
-    const diameter = heightOfTree(root.left) + heightOfTree(root.right);
-    const left = diameterOfBinaryTree(root.left);
-    const right = diameterOfBinaryTree(root.right);
-    return Math.max(diameter, left, right);
+    let maxDiam = 0;
+    var heightOfTree = function(node, h = 0) {
+        if(!node) return Math.max(h-1,0);
+        if(!node.left && !node.right) return h;
+        const left = heightOfTree(node.left, h+1) - h;
+        const right = heightOfTree(node.right, h+1) - h;
+        maxDiam = Math.max(maxDiam, left + right);
+        return Math.max(left, right) + h;
+    }
+    heightOfTree(root);
+    return maxDiam;
 };
 
-var heightOfTree = function(node, h = 1) {
-    if(!node) return h-1;
-    if(!node.left && !node.right) return h;
-    return Math.max(heightOfTree(node.left, h+1), heightOfTree(node.right, h+1));
-}

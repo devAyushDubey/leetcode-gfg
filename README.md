@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0943-sum-of-subarray-minimums) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search

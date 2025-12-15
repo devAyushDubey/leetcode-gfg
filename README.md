@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0069-sqrtx) |
 | [0830-largest-triangle-area](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0830-largest-triangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devAyushDubey/leetcode-gfg/tree/master/1370-count-number-of-nice-subarrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0151-reverse-words-in-a-string) |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

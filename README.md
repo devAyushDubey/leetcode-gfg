@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3827-implement-router) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3678-design-task-manager) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3462-vowels-game-in-a-string) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Depth-First Search
@@ -468,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devAyushDubey/leetcode-gfg/tree/master/0067-add-binary) |
+## Enumeration
+|  |
+| ------- |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/devAyushDubey/leetcode-gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 <!---LeetCode Topics End-->
